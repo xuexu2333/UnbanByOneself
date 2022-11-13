@@ -1,2 +1,11 @@
 # UnbanByOneself
-UnbanByOneself
+本项目根据GNU GPLv3协议开源
+请在修改后公开代码 即开源且开源协议与本项目保持一致
+请在您修改后的每一个类上方添加注释提示更改过
+
+本项目来自commandf1的作品UnbanByOneself
+后续由xuexu2333也就是Lite_Shark添加了比较多的功能
+在发布客户端到用户手上时允许您将你的IP与PORT通过加密string形式发送给用户 其他禁止加密 
+商业授权请联系我
+
+发送给用户请必须保留客户端打开前的SHOWMESSAGE弹窗，请勿更改。
