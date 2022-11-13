@@ -1,0 +1,9 @@
+name: UnbanByOneself
+authors: [ commandf1, Lite_Shark ]
+main: space.commandf1.unban.Main
+softdepend: [ kCore ]
+version: 1.0
+commands:
+  UnbanByOneself:
+    aliases: [ ub ]
+    description: a main command.

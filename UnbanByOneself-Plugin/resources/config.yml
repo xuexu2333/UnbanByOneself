@@ -1,0 +1,22 @@
+# UnbanByOneself
+
+# 监听端口
+port: 8816
+
+# 最多可以解封次数
+max-times: 5
+
+#隔多少天重置一次玩家unban次数(获取文件创建日期下面的天数)
+time-delay-delete: 1
+
+# 解封命令
+command:
+  - unban %player%
+  - kcore broadcast message &a&l自助UNBAN&7>> &cUNBANNED %player%!
+
+#禁止解封名字列表(Minecraft User name)
+name-blacklist:
+  - name
+#禁止解封HWID列表(机器码)
+hwid-blacklist:
+  - hwid
